@@ -1,6 +1,6 @@
-import angular from 'angular';
-import angularMeteor from 'angular-meteor';
-import ngFileUpload from 'ng-file-upload';
+import * as angular from 'angular';
+import * as angularMeteor from 'angular-meteor';
+import * as ngFileUpload from 'ng-file-upload';
 import 'angular-sortable-view';
 import 'ng-img-crop/compile/minified/ng-img-crop';
 import 'ng-img-crop/compile/minified/ng-img-crop.css';
